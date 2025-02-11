@@ -1,0 +1,2 @@
+# Granting-Access-to-Guest-Users-in-Azure-Storage-Account
+This repository provides a comprehensive guide on how to grant access to guest users in an Azure Storage account. It includes step-by-step instructions for inviting guest users, assigning roles, and verifying access. By following this guide, you can securely collaborate with external users while maintaining control over permissions and security.
