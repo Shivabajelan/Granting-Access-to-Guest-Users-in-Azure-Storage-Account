@@ -1,16 +1,16 @@
-# Granting-Access-to-Guest-Users-in-Azure-Storage-Account
+# Granting Access to Guest Users in Azure Storage Account
 ## Purpose
 The purpose of this repository is to help organizations effectively manage external user access to their Azure Storage accounts, ensuring secure and efficient collaboration with guest users.
-# Granting Access to Guest Users in Azure Storage Account
+
 
 ## Step 1: Invite Guest Users
 
-1. **Navigate to Azure Active Directory**:
+1. **Navigate to Microsoft Entra ID (Azure Active Directory)**:
    - Go to the Azure Portal and sign in.
    - Select **Azure Active Directory** from the left-hand menu.
 
 2. **Invite External User**:
-   - Click on **Users** > **New guest user**.
+   - Click on **Users** > **Invite external user**.
    - Choose **Invite user**.
    - Enter the guest user's email address (e.g., Gmail, Yahoo).
    - Optionally, add a personal message.
